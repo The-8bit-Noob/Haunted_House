@@ -1,6 +1,7 @@
 # Haunted_House
 Agon Light2 Text Adventure Game, Written in BBC BASIC.<BR>
-The Game is set in an old creepy haunted house.<BR>
+The game comes from this great old book from the 80's <br> https://colorcomputerarchive.com/repo/Documents/Books/Write%20Your%20Own%20Adventure%20Programs%20(1983)(Usborne).pdf<br>
+It is set in an old creepy haunted house.<BR>
 Your aim is to navigate around the house and its scary grounds
 and collect all the hidden objects, you will need to work out the correct path
 and the order of things that need collecting.<BR>
